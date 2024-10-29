@@ -2,9 +2,10 @@ streamlit==1.20.0
 tensorflow==2.18.0
 keras==3.6.0
 mtcnn==0.1.0
-numpy==1.26.0
 scikit-learn>=1.5.0
-pillow>=9.0.0
-scipy==1.11.3
+numpy>=1.26.0,<2.1.0
+scikit-learn
+pillow
+setuptools
 
 
