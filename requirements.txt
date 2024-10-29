@@ -1,10 +1,7 @@
-streamlit==1.39.0
-Pillow==9.5.0
-tensorflow==2.18.0
-keras
+streamlit==1.20.0
+tensorflow==2.11.0
+keras==2.11.0
 keras-vggface==0.6
+scikit-learn==1.0.2
+Pillow==9.2.0
 mtcnn==0.1.0
-numpy
-scikit-learn==1.2.2
-
-
