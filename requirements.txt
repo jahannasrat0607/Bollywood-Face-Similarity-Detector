@@ -1,7 +1,7 @@
 streamlit==1.20.0
-tensorflow==2.11.0
-keras==2.11.0
-keras-vggface==0.6
-scikit-learn==1.0.2
-Pillow==9.2.0
+tensorflow==2.18.0  # Change this if you find a compatible version that works with your code
+keras
 mtcnn==0.1.0
+numpy
+scikit-learn
+pillow
