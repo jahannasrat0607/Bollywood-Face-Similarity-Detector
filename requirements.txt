@@ -5,3 +5,5 @@ mtcnn==0.1.0
 numpy
 scikit-learn
 pillow
+numpy==1.23.5
+pandas==1.5.3
