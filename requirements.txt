@@ -6,5 +6,7 @@ keras-vggface
 mtcnn
 numpy
 scikit-learn
+keras_applications
+
 
 
