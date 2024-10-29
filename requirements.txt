@@ -1,10 +1,10 @@
 streamlit==1.20.0
-tensorflow==2.18.0  # Change this if you find a compatible version that works with your code
-keras
+tensorflow==2.18.0
+keras==3.6.0
 mtcnn==0.1.0
-numpy
-scikit-learn
-pillow
-numpy==1.23.5
-pandas==1.5.3
+numpy==1.26.0
+scikit-learn>=1.5.0
+pillow>=9.0.0
+scipy==1.11.3
+
 
