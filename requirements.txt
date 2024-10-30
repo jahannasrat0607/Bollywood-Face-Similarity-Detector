@@ -1,11 +1,10 @@
 streamlit==1.20.0
-tensorflow==2.18.0
-keras==3.6.0
+tensorflow==2.11.0
+keras==2.11.0
+numpy==1.26.4
+pandas==1.4.4
+matplotlib==3.7.1
+scikit-learn==1.5.2
+opencv-python==4.10.0.84
 mtcnn==0.1.0
-scikit-learn>=1.5.0
-numpy>=1.26.0,<2.1.0
-scikit-learn
-pillow
-setuptools
-
 
