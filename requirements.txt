@@ -9,3 +9,5 @@ opencv-python
 mtcnn==0.1.0
 keras-vggface
 protobuf
+keras_applications==1.0.8
+
